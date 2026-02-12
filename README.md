@@ -6,7 +6,7 @@
     <meta property="og:title" content="智商测试" />
     <meta property="og:description" content="10道题测出你的真实智商，快来挑战一下！" />
     <meta property="og:image" content="https://p3-flow-imagex-download-sign.byteimg.com/tos-cn-i-a9rns2rl98/b6599ad35d0f4e1d833fa7c0c056d760.jpeg~tplv-a9rns2rl98-24:720:720.jpeg?lk3s=8e244e95&rcl=202602121307211539BD78A3504140A949&rrcfp=8a172a1a&x-expires=1771477641&x-signature=OSWkw9HZtJ%2F%2Buuk3VcQrGhyVADM%3D" />
-    <meta property="og:url" content="当前页面网址" />
+    <meta property="og:url" content="https://nmsl7481.github.io/IQ-Test" />
     <meta property="og:type" content="website" />
 
     
