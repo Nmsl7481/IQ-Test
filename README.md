@@ -2,6 +2,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>IQ测试 - 挑战你的智力</title>
+    <!-- 微信分享配置（已全部帮你填好） -->
+    <meta property="og:title" content="智商测试" />
+    <meta property="og:description" content="10道题测出你的真实智商，快来挑战一下！" />
+    <meta property="og:image" content="https://p3-flow-imagex-download-sign.byteimg.com/tos-cn-i-a9rns2rl98/391d006fcaad446e93e57302b5a74038.jpg" />
+    <meta property="og:url" content="当前页面网址" />
+    <meta property="og:type" content="website" />
+
+    
     <!-- Tailwind CSS v3 -->
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Font Awesome -->
